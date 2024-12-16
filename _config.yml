@@ -1,12 +1,3 @@
 # Global settings
 theme: minima
 title: All The Common Ground
-
-# Navigation setup
-navigation:
-  - title: "Home"
-    url: "/"
-    weight: 1
-  - title: "About"
-    url: "/about/"
-    weight: 2
