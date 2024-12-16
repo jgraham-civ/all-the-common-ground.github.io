@@ -2,5 +2,5 @@
 theme: minima
 title: All The Common Ground
 header_pages:
-  - index.md
   - about.md
+  - index.md
