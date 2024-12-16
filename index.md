@@ -1,5 +1,5 @@
 ---
-title: All The Common Ground
+title: "Welcome"
 ---
 
 Our structures of education like to divide human knowledge into distinct fields. Often, these fields are further subdivided; philosophy within the humanities, ethics within philosophy. The same applies to professional disciplines; consider a doctor specialising in surgery, or a mechanic specialising in aircraft.
