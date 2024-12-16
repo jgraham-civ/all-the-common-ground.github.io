@@ -1,1 +1,1 @@
-# all-the-common-ground.github.io
+# all-the-common-ground
