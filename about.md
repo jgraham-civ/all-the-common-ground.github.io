@@ -1,6 +1,5 @@
 ---
 title: "About"
-weight: 20
 ---
 
 At the risk of undermining everything you’ve just read on my homepage; I should declare that I have my own specialist areas. My background is in biology and medicine, and I have particular interest in infectious diseases, data science and genetics. That is why the name of this blog abbreviates to ATCG – the four compounds which make up DNA. 
